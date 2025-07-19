@@ -8,9 +8,4 @@ C++ implementations of:
 - **Edmonds-Karp** (BFS-based, O(VE²))  
 - **Ford-Fulkerson** (DFS-based, O(E⋅max_flow))  
 
-# Quick Start  
-```bash  
-git clone https://github.com/yourusername/max-flow-algorithms.git  
-cd max-flow-algorithms  
-mkdir build && cd build  
-cmake .. && make  
+
